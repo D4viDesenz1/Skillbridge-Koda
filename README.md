@@ -6,6 +6,8 @@
 #Arthur Bessa Pian - RM99215
 #Davi Desenzi - RM550849
 
+##Link WOKWi: https://wokwi.com/projects/448260571008484353
+
 O **SkillBridge Focus Station** é uma solução de IoT desenvolvida para monitorar a qualidade ambiental de locais de estudo. O sistema utiliza um ESP32 para coletar telemetria em tempo real e interagir com um Broker MQTT, permitindo a gestão de sessões de foco (Smart Session).
 
 ## 📋 Funcionalidades
