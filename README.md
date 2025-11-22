@@ -11,7 +11,7 @@
 ## O que é o SkillBridge-Koda?
 - **O SkillBridge Focus Station é um dispositivo inteligente de Internet das Coisas (IoT) desenvolvido para auxiliar estudantes a manterem o foco e a saúde durante o aprendizado. Ele funciona como uma estação de monitoramento que utiliza sensores para analisar, em tempo real, se a temperatura e a iluminação do ambiente estão adequadas para o estudo, prevenindo desconforto térmico e cansaço visual. Diferente de aplicativos de celular que podem gerar distrações, o projeto conta com uma interface física simples: ao pressionar um botão, o usuário ativa o "Modo Foco", o que acende uma sinalização visual e registra o início da sessão de produtividade. Todas as informações coletadas e o status do estudo são processados pelo microcontrolador ESP32 e enviados instantaneamente para a nuvem através do protocolo MQTT, permitindo o acompanhamento remoto do desempenho e das condições do ambiente.
 
-O **SkillBridge Focus Station** é uma solução de IoT desenvolvida para monitorar a qualidade ambiental de locais de estudo. O sistema utiliza um ESP32 para coletar telemetria em tempo real e interagir com um Broker MQTT, permitindo a gestão de sessões de foco (Smart Session).
+
 
 ## 📋 Funcionalidades
 
